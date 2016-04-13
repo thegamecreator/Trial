@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\Documents\git\sample-Groceries\platforms\android\libs\nativescript.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72b585c3baffa7cb9fbecc8dd37cd89a127f17f5">
+        <dex dex="C:\Users\USER\Documents\git\sample-Groceries\platforms\android\build\intermediates\pre-dexed\debug\nativescript_588b4f8c54d76d0070419a90a9da16cfc3510808.jar" />
+    </item>
+    <item
+        jar="E:\I\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\USER\Documents\git\sample-Groceries\platforms\android\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a9f9627834936eef5afc93980adfe0846f3c7737.jar" />
+    </item>
+
+</items>
